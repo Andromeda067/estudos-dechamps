@@ -21,3 +21,6 @@ npx create-next-app@latest my-next-app
 
         indent_styke = space
         indent_size = 2
+
+
+## prettier
