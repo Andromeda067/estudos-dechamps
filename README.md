@@ -29,3 +29,13 @@ npx create-next-app@latest my-next-app
         packge.json (add scripts)
                 "lint:Check": "prettier --check .",
                 "lint:Fix": "prettier --write ."
+
+2 - intalar a extencao no vs code prettier
+
+configuracoes(VS code )
+
+busca - formatter (Colocar o pretter )
+
+Busca - format on save (ativar )
+
+Buscar - autoSave (Off)
